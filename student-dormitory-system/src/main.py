@@ -42,3 +42,4 @@ if __name__ == "__main__":
     dorm.add_room(101, 2)
     dorm.place_student(101, "Айдар")
     dorm.list_rooms()
+// feature
