@@ -44,3 +44,4 @@ if __name__ == "__main__":
     dorm.list_rooms()
 # feature: occupancy check
 print("free space check: ok")
+# feature: occupancy check
