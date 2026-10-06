@@ -1,13 +1,13 @@
 # Student Dormitory System
 
-Ақпараттық жүйе студенттік жатақхананы басқаруға арналған.
+Aqparattyq zhuie studenttk zhaataqhanany basqaruǵa arnalǵan.
 
-## Мақсаты
+## Maqsaty
 
-Жатақханадағы бөлмелерді, студенттерді және орналастыруды есепке алу.
-Свободное место проверяется при заселении студента.
+Zhataqhanadagy bólmelerdy, studentterdy zhəne ornalastyrudy esepke alu.
+Bos orun student ornalastyrganda tekserilip otyrady.
 
-## Құрылымы
+## Qurylymy
 
 ```
 student-dormitory-system/
@@ -21,13 +21,13 @@ student-dormitory-system/
 └── .gitignore
 ```
 
-## Іске қосу
+## Iske kosu
 
 ```bash
 python src/main.py
 ```
 
-## Құжаттама
+## Quzhattama
 
-- [Талаптар](docs/requirements.md)
+- [Talaptar](docs/requirements.md)
 - [Use Case](docs/use-case.md)
