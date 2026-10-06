@@ -31,3 +31,5 @@ python src/main.py
 
 - [Talaptar](docs/requirements.md)
 - [Use Case](docs/use-case.md)
+
+Свободное место проверяется при заселении студента.
