@@ -1,10 +1,10 @@
 # Student Dormitory System
 
-Aqparattyq zhuie studenttk zhaataqhanany basqaruЗµa arnalЗµan.
+Aqparattyq zhuie studenttk zhataqhanany basqaruuga arnalgan.
 
 ## Maqsaty
 
-Zhataqhanadagy bГіlmelerdy, studentterdy zhЙ™ne ornalastyrudy esepke alu.
+Zhataqhanadagy bolmelerdy, studentterdy zhane ornalastyrudy esepke alu.
 Bos orun student ornalastyrganda tekserilip otyrady.
 
 ## Qurylymy
@@ -20,12 +20,10 @@ Bos orun student ornalastyrganda tekserilip otyrady.
 
 ## Iske kosu
 
-```bash
+\\ash
 python src/main.py
-```
-
+\
 ## Quzhattama
 
 - [Talaptar](docs/requirements.md)
 - [Use Case](docs/use-case.md)
-
